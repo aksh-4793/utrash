@@ -11,7 +11,12 @@ Delete stuff later with caution
 
 # Using it
 Just do the following:
+
 `curl https://raw.githubusercontent.com/aksh-4793/utrash/master/utrash.sh >> /usr/bin/utrash`
 
 Now type:
+
 `utrash`
+
+
+*and you should be good to go*
