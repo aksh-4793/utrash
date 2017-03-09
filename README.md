@@ -8,3 +8,10 @@ This is a small bash script which will just create folder called ~/.utrash and m
 to that location instead of deleting it.
 
 Delete stuff later with caution
+
+# Using it
+Just do the following:
+`curl https://raw.githubusercontent.com/aksh-4793/utrash/master/utrash.sh >> /usr/bin/utrash`
+
+Now type:
+`utrash`
